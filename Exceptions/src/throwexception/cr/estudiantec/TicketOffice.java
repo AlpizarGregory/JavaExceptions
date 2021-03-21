@@ -4,6 +4,7 @@ package throwexception.cr.estudiantec;
 import java.util.Scanner;
 
 public class TicketOffice {
+
     public static void main(String[] args) {
 
         // This entry allows user to type its age
